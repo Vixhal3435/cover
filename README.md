@@ -31,6 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -155,7 +156,7 @@ Publish the website in the LocalHost.
     </div>
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![alt text](image.png)
 
